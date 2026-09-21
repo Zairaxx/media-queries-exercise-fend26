@@ -78,9 +78,3 @@ h1 {
 }
 
 /* SKRIV DINA MEDIA QUERIES HÄR */
-
-@media screen and (min-width:600px) {
-    .btn {
-        background:green;
-    }
-}
